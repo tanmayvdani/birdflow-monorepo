@@ -1,0 +1,15 @@
+[submodule "BirdFlowExtras"]
+	path = BirdFlowExtras
+	url = https://github.com/birdflow-science/BirdFlowExtras.git
+[submodule "BirdFlowModels"]
+	path = BirdFlowModels
+	url = https://github.com/birdflow-science/BirdFlowModels.git
+[submodule "BirdFlowPipeline"]
+	path = BirdFlowPipeline
+	url = https://github.com/birdflow-science/BirdFlowPipeline.git
+[submodule "BirdFlowPy"]
+	path = BirdFlowPy
+	url = https://github.com/birdflow-science/BirdFlowPy.git
+[submodule "BirdFlowR"]
+	path = BirdFlowR
+	url = https://github.com/birdflow-science/BirdFlowR.git

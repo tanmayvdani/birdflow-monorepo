@@ -1,0 +1,4 @@
+.DS_Store
+venv/
+training_data/*.hdf5
+*.rda
